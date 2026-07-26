@@ -1,0 +1,1 @@
+Bonjour ! Ceci est un test de synthèse vocale sur Kali Linux. La conversion fonctionne parfaitement avec espeak-ng et les voix MBROLA françaises.
